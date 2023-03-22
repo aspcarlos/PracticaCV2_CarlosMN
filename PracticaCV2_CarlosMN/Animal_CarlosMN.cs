@@ -10,6 +10,9 @@ namespace PracticaCV2_CarlosMN
     {
         // CONSTANTES
         // MIEMBROS PRIVADOS
+        private string _nombre;
+        private string _tipo;
+        private int _edad;
         // CONSTRUCTORES
         // PROPIEDADES
         // METODOS
