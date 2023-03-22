@@ -8,10 +8,10 @@ namespace PracticaCV2_CarlosMN
 {
     internal class Animal_CarlosMN
     {
-        // CONSTANTES
-        // MIEMBROS PRIVADOS
-        // CONSTRUCTORES
-        // PROPIEDADES
-        // METODOS
+        //CONSTANTES
+        //MIEMBROS PRIVADOS
+        //CONSTRUCTORES
+        //PROPIEDADES
+        //METODOS
     }
 }
